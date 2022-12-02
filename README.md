@@ -20,3 +20,5 @@ making nft is a few lines of code, initializa a contract and make it an instance
 then create a construct that takes the name of the NFT and the symbol it takes,
 using \_mint function, mint 1 token to your wallet address
 then compile and deploy with hardhat, hardhart is fullstack framework
+
+next - we use Reactjs for making and intergreting smart contracts
